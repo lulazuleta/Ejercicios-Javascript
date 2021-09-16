@@ -1,0 +1,10 @@
+
+1. Generar una funcion suma, donde el usuario ingrese dos numeros y la funcion retorne el resultado de la suma de dichos numeros.
+
+2. Realizar un programa que simule, mediante una función como el ordenador cuenta por consola, 
+desde 0 hasta un número ingresado por el usuario.
+
+3.  Realizar un programa que, mediante una función, intercambie los valores de dos variables que se solicitan al usuario
+
+4. Generar una funcion llamada fibonacci que calcule los 10 primeros numeros de la sucesion de fibonacci. Mostrar el resultado por consola.
+

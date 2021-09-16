@@ -1,0 +1,17 @@
+Ejercicios condicionales.
+
+1. Solicitar al usuario dos numeros, y una operacion. Utilizando un condicional realizar la operacion solicitada por el usuario, y mostrar mediante un alert el resultado.
+(Verificar que los datos ingresados sean correctos)
+
+2. Solicitar al usuario el año de nacimiento y calcular la edad. Mostrar mediante alert si la persona es mayor o menor de edad.
+
+3. Solicitar al usuario un numero cualquiera, y verificar si es par o impar.
+
+4. Solicitar al usuario que ingrese dos numeros, determinar cual es el mayor y cual es el menor. En caso de que sean iguales tambien deberá ser informado. 
+Imprimir el resultado por consola y por alert.
+
+5. Solicitar al usuario que ingrese una letra , Indicar si es una vocal o consonante. 
+
+6. Solicitar al usuario un numero, indicar si el mismo es positivo, negativo o si es cero.
+
+7. Solicitar al usuario que ingrese un año, determinar si es bisiesto o no.

@@ -1,0 +1,7 @@
+Variables.
+
+1- Generar un programa que pida al usuario su nombre y realice un saludo. Mostrarlo por pantalla y por consola.
+
+2- generar un programa que pida al usuario dos numeros, y realice la suma resta multiplicacion y division de ambos numeros. Mostrar los resultados de todas las operaciones por pantalla y por consola. 
+
+3- realizar un programa solicite al usuario dos numeros, y concatenarlos de forma tal que formen un solo número. Mostrar en consola.
