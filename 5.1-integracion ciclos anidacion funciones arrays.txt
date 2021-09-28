@@ -1,0 +1,19 @@
+1. Generar un programa que permita al usuario ingresar una palabra. En caso de que la palabra tenga más de ocho letras
+indicarlo por consola, de lo contrario indicar por consola que la palabra tiene menos de ocho letras.
+
+2. Solicitar al usuario 6 numeros, guardarlos en un array. Verificar cuantos numeros pares ingresó.  HECHO EN CLASE
+2.1 verificar si hay numeros negativos, y cuantos.  HECHO EN CLASE 
+2.2 verificar cuantos numero impares hay, sin utilizar un contador.  HECHO EN CLASE 
+2.3 verificar si se ingresó algun cero.  HECHO EN CLASE
+
+
+3. Generar un programa que genere tres numeros random en tres variables distintas (deberá ser un numero entre el 1 y el 6). y una variable
+llamada total.
+3.1 verificar si en la ejecucion alguno de los numeros se repitio. en caso de que si, sumar a la variable total 1.
+3.2 verificar en una funcion, si los tres numeros fueron iguales, en caso de que si, sumar 5 a la variable total.
+3.3 hacer que el programa se ejecute hasta que los tres numeros sean distintos.
+3.4 una vez finalizado el programa, mostrar por consola, el valor de la variable total.
+
+4. Generar un programa que le pregunte al usuario si esta lloviendo. en caso de que si, decirle al usuario que lleve paraguas,
+de lo contrario, decirle que disfrute el dia.
+4.1 utilizar la variable ingresada como un booleano (true o false), aplicarlo a todo el programa.

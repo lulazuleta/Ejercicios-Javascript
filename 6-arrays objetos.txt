@@ -1,0 +1,67 @@
+1. Generar un array de objetos persona, que contenga nombre, apellido, edad y sexo, mostrar por consola el nombre de las personas mayor a 25 años.
+2. Generar un array de objetos colores que contenga 5 colores, y como atributos el nombre del color y su codigo hexadecimal, mostrar por consola el color que se encuentre en la posicion 3.
+3. Dado el siguiente json, devolver el nombre del producto y el precio, de los objetos que tengan un ID impar.
+3-1. Utilizando el mismo json del ejercicio anterior mostrar los id y nombre de productos por consola, de mayor a menor.
+
+const myJSON = {
+    Hoja1: [
+        {
+            "ID": "001",
+            "DESCRIPCION": "Cartel Feliz cumple",
+            "Precio": "125"
+        },
+        {
+            "ID": "002",
+            "DESCRIPCION": "Cartel Feliz Cumple dos colores",
+            "Precio": "243"
+        },
+        {
+            "ID": "003",
+            "DESCRIPCION": "bengala dos colores",
+            "Precio": "16"
+        },
+        {
+            "ID": "004",
+            "DESCRIPCION": "bengala",
+            "Precio": "115"
+        },
+        {
+            "ID": "005",
+            "DESCRIPCION": "Velas telgopor",
+            "Precio": "33"
+        },
+        {
+            "ID": "006",
+            "DESCRIPCION": "Velas parafina",
+            "Precio": "30"
+        },
+        {
+            "ID": "007",
+            "DESCRIPCION": "Velas chupetin",
+            "Precio": "115"
+        },
+        {
+            "ID": "008",
+            "DESCRIPCION": "PILAS BOTON",
+            "Precio": "52"
+        },
+        {
+            "ID": "009",
+            "DESCRIPCION": "Pilas AA",
+            "Precio": "61"
+        },
+        {
+            "ID": "010",
+            "DESCRIPCION": "Pilas AAA",
+            "Precio": "43"
+        }]}
+		
+		
+		
+		
+4. Generar un array de objetos "mascotas" con cinco posiciones, que permita al usuario ingresar el nombre de la mascota y que animal es. Mostrar por consola todos los animales.
+En caso de que algun animal se repita, el mismo se deberá mostrar una sola vez. (AYUDA: Para realizar bien la comparacion podemos utilizar el metodo toUppercase o toLowercase, para 
+transformar todos los caracteres a mayuscula o minuscula)
+
+
+

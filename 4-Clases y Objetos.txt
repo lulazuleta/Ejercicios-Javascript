@@ -1,0 +1,54 @@
+1. Generar una clase llamada clima, donde se pase como parametro un string que indique si está lloviendo.
+Generar un metodo que devuelva un mensaje, en caso de que llueva se debera mostrar por consola "llevá paraguas", y en caso de que no llueva, se debera mostrar por consola el mensaje "Que disfrutes el dia" 
+Nota: Podes utilizar una variable de tipo booleano.
+
+2. Generar una clase llamada palabra, donde se le pase como parametro a la funcion constructora
+una palabra. Generar un metodo que indique si dicha palabra tiene mas o menos de 5 letras.
+
+3. Generar una clase llamada Numeros, donde se pase como parametro cinco numeros distintos.
+3.1 Generar un metodo que indique si el numero es negativo, positivo o si es cero.
+3.2 Generar un metodo que indique cuantos numeros pares, e impares hay.
+
+4. Generar una clase que se llame nrosRandom, donde se le pasará por parametros, tres numeros generados de forma random.
+4.1 Generar una variable global llamada total.
+4.2 Generar un metodo que verifique si alguno de los numeros se repitio. En caso de que exista una repeticion, sumar a la variable total, un punto.
+4.3 Generar un metodo que verifique si los tres numeros son iguales, en caso de que lo sean sumar 5 puntos a la variable total.
+4.4 (Opcional) Hacer que el programa se ejecute hasta que los tres numeros sean distintos.
+4.5 Mostrar por consola, los valores de los numeros que salieron, y cual es el valor final de la variable total.
+
+5. Generar una variable comida, que tenga el nombre de un plato. Crear un objeto caracteristicas,
+que como atributos tenga: Ingrediente principal, si es fria o caliente, cantidad de calorias.
+5.1 Generar una Clase, que como parametros se le pase la variable, y el atributo calorias del objeto anteriormente creado.
+5.2 Generar un metodo que indique si el plato es sano o no, teniendo en cuenta que si tiene menos de 250 calorias no va a ser sano.
+
+-------------------------------------------------------------------------------------------------
+
+
+Ejemplo generico de como generar una clase.
+
+let unaVariable;
+
+
+class NombreClase{
+	constructor (unaVariable){ //recibimos el dato que va a usar, en este caso es la variable generada anteriormente.
+		this.variable = unaVariable;   //Podemos renombrar el dato o dejarlo con el mismo nombre para poder usarlo dentro de la clase utilizando el this.
+	
+	
+	}
+	
+ miMetodo () {  //Declaramos nuestro metodo dentro de la clase (fuera del constructor) para poder trabajar con nuestros datos.
+	//Proceso que va a realizar el metodo.
+ 
+ }
+
+
+}
+
+
+const llamandoUnaClase = new NombreClase (unaVariable); // Llamamos a nuestra clase, pasandole el parametro (dato/s) que va a utilizar.
+
+llamandoUnaClase.miMetodo; //Accedemos a la clase y al metodo necesario para que se ejecute.
+
+
+
+

@@ -1,0 +1,17 @@
+1. Genere un programa, que permita ingresar 10 palabras y las guarde en un array. Generar una funcion que recorra todo el array y verifique si alguna de las palabras ingresadas está repetida.
+Mostrar por consola todas las palabras, y en caso de que alguna se repita indicar cual es, y en que posicion se encuentra.
+
+2. Realizar dos arrays, en el primero debemos poder ingresar el nombre de una persona, y en el segundo si es hombre o mujer(15 personas en total).
+Generar una funcion que nos indique la cantidad de hombres y la cantidad de mujeres que hay.
+
+3. Generar una funcion que sume los numeros pares entre el 1 y el 100, retornar el resultado de esa suma.
+
+4. Generar una funcion que genere numeros enteros random entre el 1 y el 20, mostrar por consola que numero salio. El programa debe finalizarse cuando salga el 7
+
+5. Modificar el ejercicio de la calculadora realizado con el switch case, de forma tal que generemos una funcion para realizar los calculos, y dicha funcion nos retorne el resultado de la operacion que el usuario decidio realizar.
+
+6. Crea un programa donde declares una función que reciba como parametro un importe. 
+La función debe devolver un array con valor undefined para el índice 0, el importe más el 21% para el índice 1, 
+el importe más el 10% para el índice 2, ó el importe más el 5% para el índice 3. Invoca la función haciendo que se muestre el contenido del array por pantalla.
+
+
